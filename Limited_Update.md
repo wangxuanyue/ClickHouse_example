@@ -137,7 +137,7 @@ VALUES ('develop', 0, 5, now(), now(), 1, 'wxy', now64(), 500);
 
 ## 鸣谢
 
-感谢`何小婷`、`ClickHouse-小C`同学，对AggregatingMergeTree合并查询原理给与的指点与帮助。
+感谢ClickHouse User Group China微信群中的`何小婷`、`ClickHouse-小C`同学，对AggregatingMergeTree合并查询原理给与的指点与帮助。
 
 ## 参考资料
 
