@@ -137,12 +137,12 @@ VALUES ('develop', 0, 5, now(), now(), 1, 'wxy', now64(), 500);
 
 ## 鸣谢
 
-感谢**`何小婷`**、**`ClickHouse-小C`**同学，对AggregatingMergeTree合并查询原理给与的指点与帮助。
+感谢`何小婷`、`ClickHouse-小C`同学，对AggregatingMergeTree合并查询原理给与的指点与帮助。
 
 ## 参考资料
 
-[1]: https://mp.weixin.qq.com/s/TUro4VWaOEIZo6BnYpsV6w	"ClickHouse在阿里云实时广告圈人业务最佳实践"
-[2]: https://altinity.com/blog/2020/4/14/handling-real-time-updates-in-clickhouse	"Handling Real-Time Updates in ClickHouse"
+1.https://mp.weixin.qq.com/s/TUro4VWaOEIZo6BnYpsV6w	"ClickHouse在阿里云实时广告圈人业务最佳实践"
+2.https://altinity.com/blog/2020/4/14/handling-real-time-updates-in-clickhouse	"Handling Real-Time Updates in ClickHouse"
 
 ------
 
